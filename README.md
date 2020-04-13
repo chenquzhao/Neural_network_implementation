@@ -1,1 +1,1 @@
-# Neural_network_practice
+# Neural_network_implementation
